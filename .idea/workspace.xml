@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="621d5f58-f3ce-4cb5-b163-219433204c89" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Zj7m8XNtUJVzFVpaitgYyBWlc0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="621d5f58-f3ce-4cb5-b163-219433204c89" name="Default Changelist" comment="" />
+      <created>1585340805832</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585340805832</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="808" y="413" key="Github.ShareDialog" timestamp="1585340873066">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="808" y="413" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585340873066" />
+    <state x="702" y="225" key="Github.UntrackedFilesDialog" timestamp="1585340909603">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="702" y="225" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585340909603" />
+  </component>
+</project>
