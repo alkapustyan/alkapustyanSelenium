@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="621d5f58-f3ce-4cb5-b163-219433204c89" name="Default Changelist" comment="" />
+    <list default="true" id="621d5f58-f3ce-4cb5-b163-219433204c89" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alkapustyanSelenium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/alkapustyanSelenium.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/qalight/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/qalight/App.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -18,7 +30,35 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../qalight1" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bakat\Desktop\alkapustyanSelenium\src\main\java\resources" />
+      <recent name="C:\Users\bakat\Desktop\alkapustyanSelenium" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="LoginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="alkapustyanSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loginTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="loginTests" />
+      <option name="MAIN_CLASS_NAME" value="loginTests.LoginTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LoginTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -34,6 +74,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1585767243486">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585767243486" />
     <state x="808" y="413" key="Github.ShareDialog" timestamp="1585340873066">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -42,5 +86,29 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="702" y="225" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585340909603" />
+    <state width="1877" height="266" key="GridCell.Tab.0.bottom" timestamp="1585764939750">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585764939750" />
+    <state width="1877" height="266" key="GridCell.Tab.0.center" timestamp="1585764939750">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585764939750" />
+    <state width="1877" height="266" key="GridCell.Tab.0.left" timestamp="1585764939750">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585764939750" />
+    <state width="1877" height="266" key="GridCell.Tab.0.right" timestamp="1585764939750">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585764939750" />
+    <state x="36" y="155" key="Maven.ArtifactSearchDialog" timestamp="1585466622748">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="36" y="155" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585466622748" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585848532727">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585848532727" />
   </component>
 </project>
