@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="621d5f58-f3ce-4cb5-b163-219433204c89" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alkapustyanSelenium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/alkapustyanSelenium.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/qalight/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/qalight/App.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +18,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1Zj7m8XNtUJVzFVpaitgYyBWlc0" />
   <component name="ProjectViewState">
@@ -71,17 +69,33 @@
       <option name="presentableId" value="Default" />
       <updated>1585340805832</updated>
     </task>
+    <task id="LOCAL-00001" summary="HomeWork alkapustyan 02_04_2020">
+      <created>1585858909762</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585858909762</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HomeWork alkapustyan 02_04_2020" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWork alkapustyan 02_04_2020" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="594" y="114" key="CommitChangelistDialog2" timestamp="1585858908785">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="594" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585858908785" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1585767243486">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585767243486" />
-    <state x="808" y="413" key="Github.ShareDialog" timestamp="1585340873066">
+    <state x="808" y="413" key="Github.ShareDialog" timestamp="1585859181465">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="808" y="413" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585340873066" />
+    <state x="808" y="413" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585859181465" />
     <state x="702" y="225" key="Github.UntrackedFilesDialog" timestamp="1585340909603">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -110,5 +124,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585848532727" />
+    <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585859099888">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585859099888" />
   </component>
 </project>
